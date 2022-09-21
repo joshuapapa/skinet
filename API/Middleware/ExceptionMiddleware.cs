@@ -6,7 +6,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using API.Errors;
 
-namespace API.Controllers.Middleware
+namespace API.Middleware
 {
     public class ExceptionMiddleware
     {

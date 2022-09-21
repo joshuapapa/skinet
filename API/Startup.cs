@@ -1,4 +1,4 @@
-using API.Controllers.Middleware;
+using API.Middleware;
 using API.Extensions;
 using API.Helpers;
 using Infrastructure.Data;
