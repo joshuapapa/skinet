@@ -2,6 +2,7 @@ obj
 bin
 appsettings.json
 *.db
+*.rdb
 
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
